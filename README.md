@@ -2,7 +2,7 @@
 Simple Sorting Apps Build with NodeJS
 
 ## Starting Apps
-Start apps by run ```node app.js```
+Start apps by run ```$ node app.js```
 
 ## Dependency
 * Axios
@@ -13,4 +13,4 @@ Start apps by run ```node app.js```
 * Jest
 
 ## Run Testing
-Start testing by run ```jest test.js```
+Start testing by run ```$ jest test.js```
